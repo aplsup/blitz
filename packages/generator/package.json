@@ -1,6 +1,6 @@
 {
   "name": "@blitzjs/generator",
-  "version": "0.8.0-canary.4",
+  "version": "0.8.0-canary.5",
   "description": "File generation for the Blitz CLI",
   "homepage": "https://github.com/blitz-js/blitz#readme",
   "license": "MIT",
@@ -51,6 +51,6 @@
     "vinyl": "^2.2.0"
   },
   "devDependencies": {
-    "@blitzjs/server": "0.8.0-canary.4"
+    "@blitzjs/server": "0.8.0-canary.5"
   }
 }
